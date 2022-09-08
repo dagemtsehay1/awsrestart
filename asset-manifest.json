@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/awsrestart/static/js/main.92d54ab3.js",
+    "main.js": "/awsrestart/static/js/main.c742f4cd.js",
     "index.html": "/awsrestart/index.html",
-    "main.92d54ab3.js.map": "/awsrestart/static/js/main.92d54ab3.js.map"
+    "main.c742f4cd.js.map": "/awsrestart/static/js/main.c742f4cd.js.map"
   },
   "entrypoints": [
-    "static/js/main.92d54ab3.js"
+    "static/js/main.c742f4cd.js"
   ]
 }
